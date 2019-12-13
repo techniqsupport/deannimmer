@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dean Nimmer 2",
-    "currentPage": "theartist.html",
+    "currentPage": "books.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -42,7 +42,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "uniqCompNum": 129,
+    "uniqCompNum": 133,
     "versionPublish": "4.11.5",
     "screenshot": "screenshot.png",
     "gdpr": false
@@ -694,7 +694,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#3d1a1a\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\"></h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Dean Nimmer has exhibited his art in over 200 solo and group exhibitions across the U.S., Europe, Asia, and Australia since he began his art career in 1970. His artworks are in the collections of the Boston Museum of Fine Arts, DeCordova Art Museum, Smith College Art Museum, Harvard University, Peabody/Essex Museum and many other museums across the U.S. and abroad. <br><br>Dean was given the 2010, Distinguished Teaching of Art Award, granted by the 16,000- member College Art Association, the 2011 Distinguished Alumnus Award granted by the University of Wisconsin and honored as the Outstanding Community Teacher of the Year for 2014/15 by the state of Massachusetts. <br><br>He is the author of the successful book, Art from Intuition, Random House, 2008, that is currently in its 9th printing, and his latest book, Creating Abstract Art, (North Light Books, 2014) is also a 5-star rated book on Amazon. <br><br>Dean is Emeritus Professor and the former Chairman of the Painting and Printmaking programs at the Massachusetts College of Art. <br><br><b><u>Museum and Public Art Collections</u> </b><br>Smith College Art Museum, Northampton, MA<br>Drawing Center, New York City<br> New York Public Library, New York City<br> Nassau County Museum, Long Island, NY <br>Museum Haus Kasuya, Yokosuka, Japan<br> Central Academy of Arts and Design, Beijing, China<br>Museum of Fine Arts, Boston, MA <br>DeCordova Museum, Lincoln, MA<br>Smithsonian National Archives, Washington D. C.<br>Wallraf-Richartz Museum Cologne, Germany<br> James Madison University, Harrisonburg, VA<br> Burren College of Art, County Clare, Ireland <br>University of Massachusetts, Amherst, MA<br> Everson Museum, Syracuse, New York<br> Harvard University, Cambridge, MA <br>Boston Public Library, Boston, MA <br>Milwaukee Institute of Art, Milwaukee, WI<br>Peabody/Essex Museum, Salem, MA <br><br><b><u>Visiting Artist Lecturer</u></b><b><u><br></u></b> Metropolitan Museum, New York City<br> Drawing Center, New York City<br> MIT, Center for Advanced Visual Studies, Cambridge, MA<br>Harvard University, Cambridge, MA <br>Yale University, New Haven, CT<br> Museum Haus Kasuya, Yokosuka, Japan <br>Central Academy of Arts and Design, Beijing, China<br>Institute of Contemporary Art, Boston, MA <br>Nova Scotia College of Art, Halifax, N.S.<br>Chelsea College of Art and Design, London, England<br>Burren College of Art, County Clare, Ireland <br>Vanderbilt University, Nashville, TN <br>  <br><u><b>Awards</b></u> <br>2015 Outstanding Community Teacher of the Year for the state of Massachusetts<br>2011 Distinguished Artist/Educator Alumnus Award, University of Wisconsin<br>2010 Distinguished Teaching of Art Award given by the College Art Association<br>Marion and Jasper Whiting Foundation Grant, 2002 <br>Massachusetts Cultural Foundation Grant, 2000<br> Kao Foundation For Arts And Sciences Grant, 1998<br>National Endowment for the Arts, N.E.F.A. Fellow 1996<br>Massachusetts Artists’ Foundation, Project Grant, 1987 Massachusetts Artists' Foundation, Grant, 1985<br> N.E.A. National Educator Award, 1985 <br>Massachusetts Artists' Foundation, Grant, 1979<br><br><b><u>Claim To Fame!</u></b> <br>Dean Nimmer was the drummer for the psychedelic band, The Baroques who were the first non-blues white band signed to Chess Records in 1967.&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#3d1a1a\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\"></h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Dean Nimmer has exhibited his art in over 200 solo and group exhibitions across the U.S., Europe, Asia, and Australia since he began his art career in 1970. His artworks are in the collections of the Boston Museum of Fine Arts, DeCordova Art Museum, Smith College Art Museum, Harvard University, Peabody/Essex Museum and many other museums across the U.S. and abroad. <br><br>Dean was given the 2010, Distinguished Teaching of Art Award, granted by the 16,000- member College Art Association, the 2011 Distinguished Alumnus Award granted by the University of Wisconsin and honored as the Outstanding Community Teacher of the Year for 2014/15 by the state of Massachusetts. <br><br>He is the author of the successful book, Art from Intuition, Random House, 2008, that is currently in its 9th printing, and his latest book, Creating Abstract Art, (North Light Books, 2014) is also a 5-star rated book on Amazon. <br><br>Dean is Emeritus Professor and the former Chairman of the Painting and Printmaking programs at the Massachusetts College of Art. <br><br><b><u>Museum and Public Art Collections</u> </b><b><br></b>Smith College Art Museum, Northampton, MA<br>Drawing Center, New York City<br>New York Public Library, New York City<br> Nassau County Museum, Long Island, NY <br>Museum Haus Kasuya, Yokosuka, Japan<br> Central Academy of Arts and Design, Beijing, China<br>Museum of Fine Arts, Boston, MA <br>DeCordova Museum, Lincoln, MA<br>Smithsonian National Archives, Washington D. C.<br>Wallraf-Richartz Museum Cologne, Germany<br> James Madison University, Harrisonburg, VA<br> Burren College of Art, County Clare, Ireland <br>University of Massachusetts, Amherst, MA<br> Everson Museum, Syracuse, New York<br> Harvard University, Cambridge, MA <br>Boston Public Library, Boston, MA <br>Milwaukee Institute of Art, Milwaukee, WI<br>Peabody/Essex Museum, Salem, MA <br><br><b><u>Visiting Artist Lecturer</u></b><b><u><br></u></b>Metropolitan Museum, New York City<br>Drawing Center, New York City<br> MIT, Center for Advanced Visual Studies, Cambridge, MA<br>Harvard University, Cambridge, MA <br>Yale University, New Haven, CT<br> Museum Haus Kasuya, Yokosuka, Japan <br>Central Academy of Arts and Design, Beijing, China<br>Institute of Contemporary Art, Boston, MA <br>Nova Scotia College of Art, Halifax, N.S.<br>Chelsea College of Art and Design, London, England<br>Burren College of Art, County Clare, Ireland <br>Vanderbilt University, Nashville, TN <br>  <br><u><b>Awards</b></u> <br>2015 Outstanding Community Teacher of the Year for the state of Massachusetts<br>2011 Distinguished Artist/Educator Alumnus Award, University of Wisconsin<br>2010 Distinguished Teaching of Art Award given by the College Art Association<br>Marion and Jasper Whiting Foundation Grant, 2002 <br>Massachusetts Cultural Foundation Grant, 2000<br> Kao Foundation For Arts And Sciences Grant, 1998<br>National Endowment for the Arts, N.E.F.A. Fellow 1996<br>Massachusetts Artists’ Foundation, Project Grant, 1987<br>Massachusetts Artists' Foundation, Grant, 1985<br>N.E.A. National Educator Award, 1985 <br>Massachusetts Artists' Foundation, Grant, 1979<br><br><b><u>Claim To Fame!</u></b> <br>Dean Nimmer was the drummer for the psychedelic band, The Baroques who were the first non-blues white band signed to Chess Records in 1967.&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rI7IxFKbng",
           "_anchor": "content2-y",
           "_protectedParams": [],
@@ -4882,57 +4882,96 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".card": {
-              "margin-bottom": "3rem",
-              "position": "relative",
-              "display": "flex",
-              "-ms-flex-direction": "column",
-              "-webkit-flex-direction": "column",
-              "flex-direction": "column",
-              "min-width": "0",
-              "word-wrap": "break-word",
-              "background-clip": "border-box",
-              "border-radius": ".25rem",
-              "width": "100%",
-              "min-height": "1px",
-              "@media (min-width: 768px)": {
-                "padding-left": "1.5rem",
-                "padding-right": "1.5rem"
-              },
-              "@media (max-width: 767px)": {
-                "margin-bottom": "30px"
+            "background-color": "@bgColor",
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "-webkit-flex-direction": "row-reverse",
+                "flex-direction": "row-reverse"
               }
             },
-            ".card-title": {
-              "margin": "0",
-              "color": "#ff8100"
-            },
-            ".card-box": {
-              "padding-top": "2rem"
+            ".text-block": {
+              "margin": "auto"
             },
             "amp-img": {
-              "width": "100%"
+              "text-align": "center"
             },
-            ".mbr-text": {
+            "@media (min-width: 768px)": {
+              ".image-block when (@flexDirection)": {
+                "padding-left": "2rem"
+              },
+              ".image-block when not (@flexDirection)": {
+                "padding-right": "2rem"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".image-block": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".btn when (@showButtons)": {
+              "margin": ".4rem 4px !important"
+            },
+            ".mbr-text, .mbr-section-btn": {
               "color": "#efefef"
             },
-            ".mbr-row": {
-              "@media (min-width: 768px)": {
-                "margin-left": "-1.5rem",
-                "margin-right": "-1.5rem"
-              }
+            ".mbr-section-title": {
+              "color": "#ff8100"
             }
           },
-          "_name": "features1",
-          "_customHTML": "<section class=\"features1 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected=\"\">2</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#3d1a1a\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/81spfcybvl.jpg\" layout=\"responsive\" width=\"531.2117647058824\" height=\"692\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <a href=\"http://www.amazon.com/Creating-Abstract-Art-Inspirations-Passionate/dp/1440335427\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/81spfcybvl.jpg\" alt=\"Mobirise\" title=\"\"></a>\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left mbr-light\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Creating Abstract Art</h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Creating Abstract Art is the best selling art book in the United States with over 7,000 copies sold in just three months! Booksellers large and small have picked it up across the country, including Amazon, Barnes and Noble and Walmart. The book also achieved over 30, 5-star ratings on Amazon with RAVE reviews from readers who left comments such as – “Brilliant!” – “Lightening in a bottle!” – “A must have!” – “The real deal!” – “Inspiring!” – “Go for it!” \n                        </p>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/img-27.jpeg\" layout=\"responsive\" height=\"666\" width=\"531.135\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/img-27.jpeg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left mbr-light\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Art From Intuition</h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            In his book, Art From Intuition, Dean Nimmer draws on his 38 years as a dynamic and skilled art educator to offer new paths to overcome barriers and be fully engaged in the process of making art. With over 60 innovative exercises – painting blindfolded, drawing moving figures, composing with candle smoke – this book motivates the reader to step beyond traditional techniques to find their own original artistic voice. \n                        </p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
-          "_cid": "rHLrKGcnQ9",
-          "_anchor": "features1-c",
+          "_name": "features10",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#3d1a1a\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/81spfcybvl.jpg\" layout=\"responsive\" width=\"524.3029411764707\" height=\"683\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/81spfcybvl.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Creating Abstract Art</h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                   Creating Abstract Art is the best selling art book in the United States with over 7,000 copies sold in just three months! Booksellers large and small have picked it up across the country, including Amazon, Barnes and Noble and Walmart. The book also achieved over 30, 5-star ratings on Amazon with RAVE reviews from readers who left comments such as – “Brilliant!” – “Lightening in a bottle!” – “A must have!” – “The real deal!” – “Inspiring!” – “Go for it!”\n                </p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">READ MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rKvlZpcVnJ",
+          "_anchor": "features10-3o",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "-webkit-flex-direction": "row-reverse",
+                "flex-direction": "row-reverse"
+              }
+            },
+            ".text-block": {
+              "margin": "auto"
+            },
+            "amp-img": {
+              "text-align": "center"
+            },
+            "@media (min-width: 768px)": {
+              ".image-block when (@flexDirection)": {
+                "padding-left": "2rem"
+              },
+              ".image-block when not (@flexDirection)": {
+                "padding-right": "2rem"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".image-block": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".btn when (@showButtons)": {
+              "margin": ".4rem 4px !important"
+            },
+            ".mbr-section-title": {
+              "color": "#ff8100"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#efefef"
+            }
+          },
+          "_name": "features10",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#3d1a1a\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/img-27.jpeg\" layout=\"responsive\" width=\"523.9575\" height=\"657\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/img-27.jpeg\" alt=\"Mobirise\" title>\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Art From Intuition</h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                   In his book, Art From Intuition, Dean Nimmer draws on his 38 years as a dynamic and skilled art educator to offer new paths to overcome barriers and be fully engaged in the process of making art. With over 60 innovative exercises – painting blindfolded, drawing moving figures, composing with candle smoke – this book motivates the reader to step beyond traditional techniques to find their own original artistic voice.\n                </p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">READ MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rKvlLJB7ci",
+          "_anchor": "features10-3n",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -4972,7 +5011,7 @@
             }
           },
           "_name": "info2",
-          "_customHTML": "<section class=\"info2\" group=\"Testimonials & Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Button\" name=\"showButton\" checked>\n        <input type=\"checkbox\" title=\"Text on Left/Right\" name=\"flexDirection\" condition=\"(showTitle || showSubtitle) && showButton\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#3d1a1a\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-8\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 class=\"mbr-section-title align-right mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    Workshops</h2>\n                <h3 class=\"mbr-section-subtitle align-right mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum atque, rerum excepturi fuga reprehenderit laudantium, dolorum autem iusto ipsum harum perspiciatis nobis sequi sint.\n                </h3>\n            </div>\n            <div class=\"btn-container mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-4\" mbr-if=\"showButton\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"workshops.html\" data-app-placeholder=\"Type Text\">VIEW WORKSHOPS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"info2\" group=\"Testimonials & Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Button\" name=\"showButton\" checked>\n        <input type=\"checkbox\" title=\"Text on Left/Right\" name=\"flexDirection\" condition=\"(showTitle || showSubtitle) && showButton\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#3d1a1a\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-8\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 class=\"mbr-section-title align-right mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    Workshops</h2>\n                <h3 class=\"mbr-section-subtitle align-right mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum atque, rerum excepturi fuga reprehenderit laudantium, dolorum autem iusto ipsum harum perspiciatis nobis sequi sint.\n                </h3>\n            </div>\n            <div class=\"btn-container mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-4\" mbr-if=\"showButton\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"workshops.html\" data-app-placeholder=\"Type Text\">VIEW WORKSHOPS</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rKcbOUBa7R",
           "_anchor": "info2-2x",
           "_protectedParams": [],
@@ -6649,11 +6688,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise-amp",
           "_cid": "rKueqhE8Td",
+          "_anchor": "menu2-3i",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu2-3i"
+          "_params": {}
         },
         {
           "alias": false,
@@ -6676,11 +6715,11 @@
           "_name": "content18",
           "_customHTML": "<section class=\"mbr-section content18\" group=\"Article\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#3d1a1a\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <h2 mbr-if=\"showTitle\" class=\"mbr-title align-center mbr-fonts-style mbr-bold mbr-white\" mbr-theme-style=\"display-1\">2020 Workshops</h2>\n        <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light  mbr-fonts-style mbr-white\" mbr-theme-style=\"display-5\"><i>To be announced</i></h3>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">\n            <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n            <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n        </div>\n    </div>\n</section>",
           "_cid": "rKueqiza8p",
+          "_anchor": "content18-3j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content18-3j"
+          "_params": {}
         },
         {
           "alias": false,
@@ -6701,11 +6740,11 @@
           "_name": "footer1",
           "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background6.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\">Follow on <a href=\"https://www.facebook.com/deannimmerart/\">Facebook</a> and Instagram<br>© Copyright 2019 <a href=\"mailto:deannimmer@gmail.com\">Dean Nimmer</a>&nbsp;-&nbsp;All Rights Reserved<br></p>\n        </div>\n    </div>\n</section>",
           "_cid": "rKueqiTWUm",
+          "_anchor": "footer1-3k",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer1-3k"
+          "_params": {}
         }
       ]
     }
