@@ -26,6 +26,7 @@ body{font-family: Roboto;}blockquote{border-color: #ff8100;}.display-1{font-fami
   <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
   <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
   <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+  <script async custom-element="amp-recaptcha-input" src="https://cdn.ampproject.org/v0/amp-recaptcha-input-0.1.js"></script>
   
   
 
@@ -45,7 +46,7 @@ body{font-family: Roboto;}blockquote{border-color: #ff8100;}.display-1{font-fami
                         <a class="text-primary dropdown-item display-7" href="paintings.html">Paintings</a><a class="text-primary dropdown-item display-7" href="monoprints.html">Monoprints<br></a>
                     </div>
                 </li>
-                <li class="nav-item dropdown open">
+                <li class="nav-item dropdown">
                     <a class="nav-link link text-primary dropdown-toggle display-7" data-toggle="dropdown-submenu" aria-expanded="true">
                         Books and Events</a><div class="dropdown-menu"><a class="text-primary dropdown-item display-7" href="books.html">Books</a><a class="text-primary dropdown-item display-7" href="exhibitionsandworkshops.html">2020 Exhibits and Workshops<br></a></div>
                 </li>
@@ -93,7 +94,7 @@ body{font-family: Roboto;}blockquote{border-color: #ff8100;}.display-1{font-fami
                         <a class="text-primary dropdown-item display-7" href="paintings.html">Paintings</a><a class="text-primary dropdown-item display-7" href="monoprints.html">Monoprints<br></a>
                     </div>
                 </li>
-                <li class="nav-item dropdown open">
+                <li class="nav-item dropdown">
                     <a class="nav-link link text-primary dropdown-toggle display-7" data-toggle="dropdown-submenu" aria-expanded="true">
                         Books and Events</a><div class="dropdown-menu"><a class="text-primary dropdown-item display-7" href="books.html">Books</a><a class="text-primary dropdown-item display-7" href="exhibitionsandworkshops.html">2020 Exhibits and Workshops<br></a></div>
                 </li>
@@ -126,7 +127,7 @@ body{font-family: Roboto;}blockquote{border-color: #ff8100;}.display-1{font-fami
         <div class="row">
             <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
 <!--Formbuilder Form-->
-<form method="POST" class="mbr-form" action-xhr="https://formoid.net/api/amp-form/push" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="6kjpqGNsQbL0Iz+10nI9tqWBUCiseHJ2sAu3GS7v6zM+Q3gVn6haSHRKivE4uid0MCALLAYH9hx0BAyR41MSg4B58zofmH2kdIHy54Vm9LoV/MaG2Vnf2DI7s0u7bjCA.Q7hISgZAnD99+u1xeB5FiGQfpemzUAkkW9JABEj72MKmasVd9TBRPlYamoPjyBEfy1eO8t6i+4wG9z7lfwl4ByAJy7NrxzOsHU3T1Pyw/zzQhU8QjFSwMqju0oPpAVan">
+<form method="POST" class="mbr-form" action-xhr="https://formoid.net/api/amp-form/push" data-form-title="Form Name"><amp-recaptcha-input layout="nodisplay" name="recaptcha_token" data-sitekey="6LcrH9YUAAAAAGbGxnIsbHrePnG0pwZi2ymCMxf8" data-action="recaptcha_example"></amp-recaptcha-input><input type="hidden" name="email" data-form-email="true" value="Rkg8eXKvrst94DiCif+7yAfYYPoeRMiLsCpuFB+De/C/w2sucHF+tJJoMagLoOZe7a2cRgo/r1GYNf//MMPqLNhxT7SegjCvKpYlHx2g0k6D9P+oufdMhESel0ZH2raM.sHK4S7S2rxinneGCmGwldbUQs90UEPTwBu3q0GolQfIDq5qTO0CKcMM/qvezocgEswHhGo63NYRjk0PHd7wwkKlf9DH4HQilvpauGC1CS8cF2oLKZwb+eMXTMZS/2SnB.E8XRmV1WtKvgi9XFnz7m9ceafMmx5YHRTbO6fu3F3iILGcpOrcVZK2CkfC8llHdgUsBngY9+WlVZQOyLxPNnYWgVhLTqlG3JIgsqxGeBrNcCb8CK74c9pgiWwgxzwNJc">
 <div class="mbr-row">
 <div submit-success="" class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
 <template data-form-alert="" type="amp-mustache">Thanks for filling out the form!</template>
@@ -137,7 +138,7 @@ body{font-family: Roboto;}blockquote{border-color: #ff8100;}.display-1{font-fami
 </div>
 <div class="dragArea mbr-row">
 <div class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
-<h4 class="mbr-fonts-style mbr-fonts-style display-2"><strong>Contact Dean Nimmer</strong></h4>
+<h4 class="mbr-fonts-style mbr-fonts-style mbr-fonts-style mbr-fonts-style mbr-fonts-style display-2">Contact Dean Nimmer</h4>
 </div>
 <div class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
 <hr>
@@ -145,12 +146,12 @@ body{font-family: Roboto;}blockquote{border-color: #ff8100;}.display-1{font-fami
 <div data-for="form[data][undefined][1]" class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12 field">
 <div class="mbr-form-row">
 <div class="mbr-col">
-<input type="hidden" name="form[data][0][0]" value="nameFirst" id="form[data][0][0]-formbuilder-42" data-form-field="">
-<input type="text" name="form[data][0][1]" placeholder="First Name" data-form-field="nameFirst" class="text-multiple field-input display-7" required="required" value="" id="form[data][0][1]-formbuilder-42">
+<input type="hidden" name="form[data][0][0]" value="First Name" id="form[data][0][0]-formbuilder-42" data-form-field="">
+<input type="text" name="form[data][0][1]" placeholder="First Name" data-form-field="First Name" class="text-multiple field-input display-7" value="" id="form[data][0][1]-formbuilder-42">
 </div>
 <div class="mbr-col">
-<input type="hidden" name="form[data][1][0]" value="nameLast" id="form[data][1][0]-formbuilder-42" data-form-field="">
-<input type="text" name="form[data][1][1]" placeholder="Last Name" data-form-field="nameLast" class="text-multiple field-input display-7" required="required" value="" id="form[data][1][1]-formbuilder-42">
+<input type="hidden" name="form[data][1][0]" value="Last Name" id="form[data][1][0]-formbuilder-42" data-form-field="">
+<input type="text" name="form[data][1][1]" placeholder="Last Name" data-form-field="Last Name" class="text-multiple field-input display-7" value="" id="form[data][1][1]-formbuilder-42">
 </div>
 </div>
 </div>
@@ -159,7 +160,7 @@ body{font-family: Roboto;}blockquote{border-color: #ff8100;}.display-1{font-fami
 <input type="email" name="form[data][2][1]" placeholder="Email" data-form-field="email" required="required" class="field-input display-7" value="" id="form[data][2][1]-formbuilder-42">
 </div>
 <div data-for="form[data][3][1]" class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12 field">
-<input type="hidden" name="form[data][3][0]" value="message" id="form[data][3][0]-formbuilder-42" data-form-field="">
+<input type="hidden" name="form[data][3][0]" value="Message" id="form[data][3][0]-formbuilder-42" data-form-field="">
 <textarea name="form[data][3][1]" placeholder="Message" data-form-field="message" required="required" class="field-input display-7" id="form[data][3][1]-formbuilder-42"></textarea>
 </div>
 <div class="mbr-col-auto">
