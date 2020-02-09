@@ -50,8 +50,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-156829308-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-156829308-1');\n</script>\n\n",
     "cssOptimize": false,
     "pwa-switcher": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "canonical-url": false
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
@@ -64,25 +63,6 @@
         "html_before": ""
       },
       "components": [
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            "blockquote": {
-              "border-color": "@lineColor"
-            }
-          },
-          "_name": "content10",
-          "_customHTML": "<section class=\"content10 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ff8100\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-text mbr-fonts-style mbr-col-sm-12 mbr-col-md-8\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p>A Message from Dean Nimmer: FRAUD ALERT Don't lose money over this scam. It's a scam against artists. <a href=\"https://www.agora-gallery.com/advice/blog/2017/05/25/how-to-recognize-art-scam/\" target=\"_blank\">If you get an email similar to these examples and these keywords, then it is fraud.</a>&nbsp;You should delete it.</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rOP5AF2o92",
-          "_anchor": "content10-46",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
         {
           "alias": false,
           "_styles": {
