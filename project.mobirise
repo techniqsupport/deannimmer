@@ -50,7 +50,8 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-156829308-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-156829308-1');\n</script>\n\n",
     "cssOptimize": false,
     "pwa-switcher": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
@@ -58,7 +59,7 @@
         "main": true,
         "title": "Dean Nimmer",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"keywords\" content=\"dean,nimmer,artist\">",
         "footer_custom": "",
         "html_before": ""
       },
