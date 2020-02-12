@@ -51,7 +51,7 @@
     "cssOptimize": false,
     "pwa-switcher": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "canonical-url": false
+    "canonical-url": "https://www.deannimmer.com/"
   },
   "pages": {
     "index.html": {
@@ -114,7 +114,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
